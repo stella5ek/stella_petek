@@ -1,0 +1,44 @@
+body{
+	background-image: url("slike/pozadina.jpg");
+}
+
+p{
+	color: black;
+	font-family: unset;
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+	background-color: lightseagreen;
+	padding: 20px;
+}
+.paragraf_2 {color: darkslategray; background-color: rgba(230, 255, 230, 0.5);}
+h1{
+	color: black;
+	font-family: unset;
+}
+h2{
+	color: black;
+	font-family: unset;
+}
+h3{
+	color: darkgreen;
+	font-family: unset;
+}
+
+a{
+	color: white;
+	background-color: black;
+	padding: 5px;
+	line-height: 40px;
+	border: 1px solid #000000;
+
+}
+img{
+	height: 300px;
+}
+video{
+	height: 400px;
+}
+audio{
+	height: 50px;
+}
